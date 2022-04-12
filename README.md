@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hrishikesh Dherange
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DL Algorithms
-- 💞️ I’m looking to collaborate in Data science. 
+- 💞️ I’m looking to collaborate in ML/Data Analysis Projects.
 - 📫 How to reach me- Mailto: hrishikeshdherange@gmail.com
 -                     LinkedIn: https://www.linkedin.com/in/hrishikeshdherange/
 
