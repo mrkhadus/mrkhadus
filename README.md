@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hrishikesh Dherange
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DL Algorithms
-- 💞️ I’m looking to collaborate in ML/Data Analysis Projects.
+- 👀 I’m interested in Cloud and DevOps
+- 🌱 I’m currently learning CI/CD
+- 💞️ I’m looking to collaborate in DevOps/Cloud Architecture Desgining projects.
 - 📫 How to reach me- Mailto: hrishikeshdherange@gmail.com
 -                     LinkedIn: https://www.linkedin.com/in/hrishikeshdherange/
 
